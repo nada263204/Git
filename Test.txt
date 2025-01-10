@@ -1,2 +1,6 @@
 ﻿This is a test file.
+<<<<<<< HEAD
 update text file
+=======
+test
+>>>>>>> 263ac4642f77e41e45fb79feec83bebccddb864f
